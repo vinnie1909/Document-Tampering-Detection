@@ -2,8 +2,6 @@ from flask import Flask, render_template, request
 import model as m
 from PIL import Image
 
-# Author Naveenprabaharan S - GCT[1918L12]
-
 app = Flask(__name__)
 
 
